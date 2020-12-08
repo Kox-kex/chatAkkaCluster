@@ -1,0 +1,12 @@
+
+N
+java:S1444",Make this "public static system" field final(·Æç£üÿÿÿÿ8£ðé˜â.
+]	java:S125j"<This block of commented-out lines of code should be removed.(¾ä¡Êúÿÿÿÿ8ÄØï—â.
+Q
+java:S22098"5Change this instance-reference to a static reference.(Óœ¬	8–§ô•â.
+X
+java:S2696$"6Make the enclosing method "static" or remove this set.(‘àÅøÿÿÿÿ8ìøÕ˜â.
+R
+java:S22095"5Change this instance-reference to a static reference.(ÍÓ¯è8–§ô•â.
+t
+java:S1104"RMake system a static final constant or non-public and provide accessors if needed.(·Æç£üÿÿÿÿ8£ðé˜â.
